@@ -9,7 +9,7 @@
     <body>
         <h2>Авторизація</h2>
 
-        <form action="authorize" method="POST">
+        <form action="authorize" method="GET">
 
             <p>Логін</p>
             <input type="text" name="name"/>
